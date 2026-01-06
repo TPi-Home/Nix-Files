@@ -1,0 +1,50 @@
+# Colors used by:  https://github.com/p3rception/dotfiles
+[General]
+Description=p3rception
+
+[Background]
+Color=18,18,18
+
+[Foreground]
+Color=241,241,241
+
+# -----------------------
+# Normal ANSI (0-7)
+# -----------------------
+[Color0]   # black
+Color=18,18,18
+[Color1]   # red
+Color=165,42,255
+[Color2]   # green
+Color=113,41,255
+[Color3]   # yellow
+Color=61,42,255
+[Color4]   # blue
+Color=43,79,255
+[Color5]   # magenta
+Color=40,131,255
+[Color6]   # cyan
+Color=40,185,255
+[Color7]   # white
+Color=241,241,241
+
+# -----------------------
+# Intense/Bright ANSI (0-7)
+# Konsole uses these for the "bright" row
+# -----------------------
+[Color0Intense]  # bright black
+Color=102,102,102
+[Color1Intense]  # bright red
+Color=186,90,255
+[Color2Intense]  # bright green
+Color=144,90,255
+[Color3Intense]  # bright yellow
+Color=101,123,131
+[Color4Intense]  # bright blue
+Color=92,120,255
+[Color5Intense]  # bright magenta
+Color=94,162,255
+[Color6Intense]  # bright cyan
+Color=90,200,255
+[Color7Intense]  # bright white
+Color=255,255,255
